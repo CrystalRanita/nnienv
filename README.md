@@ -1,0 +1,2 @@
+# nnienv
+microsoft nni env
