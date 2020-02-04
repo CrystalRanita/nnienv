@@ -1,4 +1,0 @@
-SETUP NNI_OUTPUT_DIR
-
-$ vim venv/bin/activate
-Add export NNI_OUTPUT_DIR=YOUT_OUT_PATH
